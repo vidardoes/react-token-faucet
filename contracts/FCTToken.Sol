@@ -11,5 +11,3 @@ contract FCTToken is ERC20 {
       _mint(recipient, amount);
     }
 }
-
-
